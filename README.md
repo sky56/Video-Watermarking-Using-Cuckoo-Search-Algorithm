@@ -1,6 +1,6 @@
 # Video-Watermarking-Using-Cuckoo-Search-Algorithm
 The watermarking is implemented using <b>Cuckoo search algorithm</b> since it gives both robustness and imperceptibility to the extracted watermark. <b>Mantegna Levy Flight</b> and <b>McCulloch Levy Flight</b> are implemented along with <b>Cuckoo Search Algorithm</b>.<br>
-The file <b>gui_mantegna.m</b> and <b>gui_mcculloch</b> are to be executed for Mantegna Levy Flight and McCulloch Levy Flight respectively. <br>
+The file <b>gui_mantegna.m</b> and <b>gui_mcculloch.m</b> are to be executed for Mantegna Levy Flight and McCulloch Levy Flight respectively. <br>
 
 <h2>Steps happening in the entire watermarking process</h2>
 <ol>
