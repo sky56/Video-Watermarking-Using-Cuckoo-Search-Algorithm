@@ -12,4 +12,4 @@ The file <b>gui_mantegna.m</b> and <b>gui_mcculloch.m</b> are to be executed for
 </ol><br>
 
 #Author
-<i>Akash Choudhary</i>
+<b>Akash Choudhary</b>
